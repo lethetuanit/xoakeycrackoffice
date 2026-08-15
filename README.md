@@ -1,5 +1,3 @@
-Dưới đây là một mẫu file README.md (Hướng dẫn sử dụng) được viết chi tiết, trình bày rõ ràng và dễ hiểu để bất kỳ ai cũng có thể nắm được công dụng và cách dùng tool của bạn. Bạn có thể lưu nội dung này lại thành file README.md hoặc Huong_dan_su_dung.txt.
-
 🛠️ HƯỚNG DẪN SỬ DỤNG TOOL XÓA KEY OFFICE (CLEAN OFFICE KEY)
 Tool Xóa Key Office là một đoạn mã (script) tự động giúp bạn dọn dẹp, gỡ bỏ tận gốc các key bản quyền Office cũ, key lỗi hoặc các bản quyền crack (KMS) đang tồn tại trên máy tính.
 
